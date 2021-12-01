@@ -6,9 +6,10 @@
 
 
 <a mailto="ifrahabdicreate@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
+<a href="https://www.linkedin.com/in/ifrah-a-37498018a/" target="_blank"><img align="left" alt="linkedin" src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/iiifra_h/" target="_blank"><img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://codepen.io/i-f-r-a-h" target="_blank"><img align="left" alt="codepen" src="	https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+<a href="https://dev.to/ifrah" target="_blank"><img align="left" alt="dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <br />
 <br />
 
@@ -19,10 +20,10 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
+- [My professional development plan](https://dev.to/ifrah/5-underrated-resources-to-learn-git-and-github-4edi------2)
+- [Where do i see myself in the future?](https://dev.to/ifrah/my-career-aspirations-1g94------2)
+- [My updated career plan](https://dev.to/ifrah/my-updated-career-aspirations-d5m------2)
+- [5 underated resources to learn git and github](https://dev.to/ifrah/5-underrated-resources-to-learn-git-and-github-4edi------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
@@ -57,8 +58,8 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/11100706942)
 <br/>
 ---
 
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![I-f-r-a-h's github stats](https://github-readme-stats.vercel.app/api?username=i-f-r-a-h-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)]
