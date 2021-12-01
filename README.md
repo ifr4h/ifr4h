@@ -58,7 +58,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://i-f-r-a-h.vercel.app/api/spotify)](https://open.spotify.com/user/i-f-r-a-h)
+[![Spotify](https://novatorem-dun-seven.vercel.app/api/spotify)](https://open.spotify.com/user/11100706942)
 <br/>
 ---
 
