@@ -52,5 +52,5 @@
 <br/>
 ---
 
-![-f-r-a-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-f-r-a-h&count_private=true&show_icons=true&theme=radical)
+![-f-r-a-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-f-r-a-h&count_private=true&show_icons=true&theme=buefy)
 
