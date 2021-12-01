@@ -58,7 +58,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/11100706942)
+[![Spotify](https://i-f-r-a-h.vercel.app/api/spotify)](https://open.spotify.com/user/i-f-r-a-h)
 <br/>
 ---
 
