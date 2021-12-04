@@ -10,7 +10,6 @@
 <a href="https://dev.to/ifrah" target="_blank"><img align="left" alt="dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <br />
 <br />
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
