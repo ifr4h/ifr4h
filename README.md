@@ -25,17 +25,6 @@
 <br />
 <br />
 
-### 📕 Latest Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-- [My professional development plan](https://dev.to/ifrah/5-underrated-resources-to-learn-git-and-github-4edi------2)
-- [Where do i see myself in the future?](https://dev.to/ifrah/my-career-aspirations-1g94------2)
-- [My updated career plan](https://dev.to/ifrah/my-updated-career-aspirations-d5m------2)
-- [5 underated resources to learn git and github](https://dev.to/ifrah/5-underrated-resources-to-learn-git-and-github-4edi------2)
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-<br />
 
 ---
 
