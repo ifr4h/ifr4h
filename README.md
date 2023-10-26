@@ -1,7 +1,7 @@
 
 <br/>
 
-## Hello and welcome to my Github account. My name's Ifrah. A Junior web developer studying in London, UK.
+## Hello and welcome to my Github account. My name's Ifrah. A Junior developer 
 ### Connect with me:
 <a mailto="ifrahabdicreate@gmail.com" target="_blank"><img align="left" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ifrah-a-37498018a/" target="_blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
