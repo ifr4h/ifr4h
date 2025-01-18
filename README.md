@@ -9,7 +9,7 @@
 
 
 <!-- ### Now Playing 🎧 -->
-<!-- [![Spotify](https://novatorem-dun-seven.vercel.app/api/spotify)](https://open.spotify.com/user/11100706942) -->
+ [![Spotify](https://novatorem-dun-seven.vercel.app/api/spotify)](https://open.spotify.com/user/11100706942)
 
 <br/>
 
