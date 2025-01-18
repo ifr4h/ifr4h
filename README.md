@@ -1,18 +1,14 @@
+🎯  
+Hey, I’m Ifrah!  
 
-<br/>
+I’m a creative web developer and designer, currently based in the UK. I’m working on **V3 of my portfolio**. 🚀  
+- [Dev.to](https://dev.to/ifrah)  
+- [More about me →](https://ifrahabdi.com/about)  
+- [My personal website](https://ifrahabdi.com/)  
 
-## Hello and welcome to my Github account.
+---  
 
+### 🎧 What I’m Currently Listening To:  
+[![Spotify](https://novatorem-dun-seven.vercel.app/api/spotify)](https://open.spotify.com/user/11100706942)  
 
----
-
-
-
-<!-- ### Now Playing 🎧 -->
- [![Spotify](https://novatorem-dun-seven.vercel.app/api/spotify)](https://open.spotify.com/user/11100706942)
-
-<br/>
-
-
-![-f-r-a-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-f-r-a-h&count_private=true&show_icons=true&theme=graywhite)
-
+---  
